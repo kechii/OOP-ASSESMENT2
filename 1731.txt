@@ -1,0 +1,21 @@
+student_name,admission_number,overall_grade
+Kelvin KIPKOGEI,A001,85.5
+Emma Johnson,A002,92.0
+Michael Brown,A003,78.3
+Sophia Lee,A004,89.7
+David Wilson,A005,76.2
+Olivia Davis,A006,94.5
+James Taylor,A007,81.8
+MADISON grey,A008,88.9
+Ethan Anderson,A009,79.6
+Isabella Thomas,A010,91.2
+Alex bummer,A011,83.4
+Mia Robinson,A012,87.1
+Noah Clark,A013,75.9
+Charlotte Lewis,A014,90.3
+William Walker,A015,82.7
+Trevor Noah,A016,86.5
+Benjamin Young Thug,A017,77.8
+Harper Allen,A018,93.1
+Rich Homie Quan,A019,80.2
+Grace Wright,A020,88.6
